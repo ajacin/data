@@ -1,4 +1,5 @@
-[
+{
+    "notedetails":[
     {
     "id":1,
     "title":"Bank Details",
@@ -25,3 +26,4 @@
     "note":"Bank details to be sent5"
 }
 ]
+}
