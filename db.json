@@ -2,26 +2,26 @@
     {
     "id":1,
     "title":"Bank Details",
-    "note":"Bank details to be sent",
+    "note":"Bank details to be sent"
 },
 {
     "id":2,
     "title":"Bank Details1",
-    "note":"Bank details to be sent1",
+    "note":"Bank details to be sent1"
 },
 {
     "id":3,
     "title":"Bank Details2",
-    "note":"Bank details to be sent3",
+    "note":"Bank details to be sent3"
 },
 {
     "id":4,
     "title":"Bank Details4",
-    "note":"Bank details to be sent4",
+    "note":"Bank details to be sent4"
 },
 {
     "id":5,
     "title":"Bank Details5",
-    "note":"Bank details to be sent5",
+    "note":"Bank details to be sent5"
 }
 ]
