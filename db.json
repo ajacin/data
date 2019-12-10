@@ -29,6 +29,18 @@
       "title": "Two wheeler insuranace",
       "note": "Expired on 06 Dec",
       "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Clock batteries",
+      "note": "AA size",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Buy fevi quick",
+      "note": "for wiper",
+      "completed": false
     }
   ]
 }
