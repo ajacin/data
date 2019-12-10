@@ -4,31 +4,31 @@
       "id": 1,
       "title": "Rent is pending",
       "note": "",
-      "completed": true
+      "completed": false
     },
     {
       "id": 2,
       "title": "Waste dispose",
       "note": "dry waste",
-      "completed": true
+      "completed": false
     },
     {
       "id": 3,
       "title": "Pay Electricity Bill",
       "note": "Rs.450",
-      "completed": true
+      "completed": false
     },
     {
       "id": 4,
-      "title": "vaccine",
-      "note": "The chickenpox vaccinemade from a live but weakened, or attenuated, virus.",
+      "title": "Settle credit card bill",
+      "note": "Credit card bill payment deadline on 12th",
       "completed": true
     },
     {
       "id": 5,
       "title": "Two wheeler insuranace",
       "note": "Expired on 06 Dec",
-      "completed": true
+      "completed": false
     }
   ]
 }
