@@ -2,28 +2,33 @@
     "notedetails":[
     {
     "id":1,
-    "title":"Items to buy",
-    "note":"Milk,banana"
+    "title":"Rent is pending",
+    "note":"",
+    "enabled":true
 },
 {
     "id":2,
     "title":"Waste dispose",
-    "note":"dry waste"
+    "note":"dry waste",
+    "enabled":true
 },
 {
     "id":3,
-    "title":"Pay EB",
-    "note":"Rs.450"
+    "title":"Pay Electricity Bill",
+    "note":"Rs.450",
+    "enabled":true
 },
 {
     "id":4,
     "title":"vaccine",
-    "note":"The chickenpox vaccine is a shot that can protect nearly anyone who receives the vaccine from catching chickenpox. It's also called the varicella vaccine, because chickenpox is caused by the varicella-zoster virus. The vaccine is made from a live but weakened, or attenuated, virus."
+    "note":"The chickenpox vaccinemade from a live but weakened, or attenuated, virus.",
+    "enabled":true
 },
 {
     "id":5,
-    "title":"HDFC BANK DETAILS",
-    "note":"HDFC 50100048701413 NUNGAMBAKKAM,CHENNAI HDFC0000082"
+    "title":"Two wheeler insuranace",
+    "note":"Expired on 06 Dec",
+    "enabled":true
 }
 ]
 }
