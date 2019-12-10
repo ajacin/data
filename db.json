@@ -2,18 +2,18 @@
     "notedetails":[
     {
     "id":1,
-    "title":"Bank Details",
-    "note":"Bank details to be sent"
+    "title":"Items to buy",
+    "note":"Milk,banana"
 },
 {
     "id":2,
-    "title":"Bank Details1",
-    "note":"Bank details to be sent1"
+    "title":"Waste dispose",
+    "note":""
 },
 {
     "id":3,
-    "title":"Bank Details2",
-    "note":"Bank details to be sent3"
+    "title":"Pay EB",
+    "note":"Rs.450"
 },
 {
     "id":4,
