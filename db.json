@@ -8,9 +8,9 @@
     },
     {
       "id": 2,
-      "title": "Waste dispose",
-      "note": "dry waste",
-      "completed": true
+      "title": "LIC",
+      "note": "due date over",
+      "completed": false
     },
     {
       "id": 3,
