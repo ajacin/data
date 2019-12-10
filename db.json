@@ -10,7 +10,7 @@
       "id": 2,
       "title": "Waste dispose",
       "note": "dry waste",
-      "completed": false
+      "completed": true
     },
     {
       "id": 3,
