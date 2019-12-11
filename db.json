@@ -32,8 +32,8 @@
       "id": 5,
       "title": "Two wheeler insuranace",
       "note": "Expired on 06 Dec",
-      "completed": false,
-      "important": true
+      "completed": true,
+      "important": false
     },
     {
       "id": 5,
@@ -43,11 +43,18 @@
       "important": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Buy fevi quick",
       "note": "for wiper",
       "completed": false,
       "important": false
+    },
+    {
+      "id": 7,
+      "title": "Buy phone",
+      "note": "for Jibin.Offer currently running till 12th dec",
+      "completed": false,
+      "important": true
     }
   ]
 }
