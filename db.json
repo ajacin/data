@@ -2,66 +2,24 @@
   "notedetails": [
     {
       "id": 1,
-      "title": "Rent is pending",
-      "note": "",
+      "title": "PR APPLICATION STATUS",
+      "note": "16% Completed",
       "completed": false,
       "important": false
     },
     {
       "id": 2,
       "title": "LIC",
-      "note": "due date over",
+      "note": "due date in April",
       "completed": false,
       "important": false
     },
-    {
-      "id": 3,
-      "title": "Pay Electricity Bill",
-      "note": "Rs.582.Acc ID 2123276000",
+	{
+      "id": 2,
+      "title": "Electricity Bill April",
+      "note": "Pending",
       "completed": false,
       "important": false
     },
-    {
-      "id": 4,
-      "title": "Settle credit card bill",
-      "note": "Credit card bill payment deadline on 12th",
-      "completed": true,
-      "important": false
-    },
-    {
-      "id": 5,
-      "title": "Two wheeler insuranace",
-      "note": "Expired on 06 Dec",
-      "completed": true,
-      "important": false
-    },
-    {
-      "id": 5,
-      "title": "Clock batteries",
-      "note": "AA size",
-      "completed": false,
-      "important": false
-    },
-    {
-      "id": 6,
-      "title": "Buy fevi quick",
-      "note": "for wiper",
-      "completed": false,
-      "important": false
-    },
-    {
-      "id": 7,
-      "title": "Buy phone",
-      "note": "for Jibin.Offer currently running till 12th dec",
-      "completed": false,
-      "important": true
-    },
-    {
-      "id": 5,
-      "title": "Mail from IRCC",
-      "note": "Need to check if nominated",
-      "completed": true,
-      "important": true
-    }
   ]
 }
