@@ -19,6 +19,20 @@
       "title": "Electricity Bill April",
       "note": "Pending",
       "completed": false,
+      "important": true
+    },
+	{
+      "id": 4,
+      "title": "Rent - February",
+      "note": "Paid",
+      "completed": true,
+      "important": false
+    },
+	{
+      "id": 5,
+      "title": "Car service",
+      "note": "Approximate amount is 14,000INR",
+      "completed": false,
       "important": false
     }
   ]
