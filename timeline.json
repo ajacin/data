@@ -1,0 +1,39 @@
+[
+    {
+      date: new Date(),
+      dayData: [
+        {
+          time: "09:00",
+          title: "Elica Chimney",
+          description:
+            "Lorem Ipsum is simply dummy text of t Ipsum is simply dummy text of the printing.Lorem Ipsum is simply dummy text of the printing.",
+          lineColor: "#009688",
+          icon: require("../img/computer.png")
+        },
+        {
+          time: "10:45",
+          title: "Event 2",
+          description: "Lorem Ipsum is simply dummy text of the printing.",
+          icon: require("../img/computer.png")
+        },
+        {
+          time: "12:00",
+          title: "Lunch",
+          icon: require("../img/computer.png")
+        },
+        {
+          time: "14:00",
+          title: "Event 3",
+          description: "Lorem Ipsum is simply dummy text of the printing.",
+          lineColor: "#009688",
+          icon: require("../img/computer.png")
+        },
+        {
+          time: "16:30",
+          title: "Event 4",
+          description: "Lorem Ipsum is simply dummy text of the printing.",
+          icon: require("../img/computer.png")
+        }
+      ]
+    }
+  ]
