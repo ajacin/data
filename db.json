@@ -13,6 +13,13 @@
       "note": "To the first kitchen",
       "completed": false,
       "important": false
+    },
+    {
+      "id": 2,
+      "title": "Furniture",
+      "note": "",
+      "completed": true,
+      "important": false
     }
   ]
 }
