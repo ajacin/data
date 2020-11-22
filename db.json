@@ -2,36 +2,15 @@
   "notedetails": [
     {
       "id": 1,
-      "title": "9497935255",
-      "note": "Safalya Kerala Police",
+      "title": "TV stand",
+      "note": "TV stand not available in Perambra",
       "completed": false,
       "important": true
     },
     {
       "id": 2,
-      "title": "9497934708",
-      "note": "Arogya Jagrata",
-      "completed": false,
-      "important": false
-    },
-	{
-      "id": 3,
-      "title": "Electricity Bill April",
-      "note": "Pending",
-      "completed": false,
-      "important": true
-    },
-	{
-      "id": 4,
-      "title": "Rent - February",
-      "note": "Paid",
-      "completed": true,
-      "important": false
-    },
-	{
-      "id": 5,
-      "title": "Car service",
-      "note": "Approximate amount is 14,000INR",
+      "title": "Ceiling fan",
+      "note": "To the first kitchen",
       "completed": false,
       "important": false
     }
